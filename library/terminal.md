@@ -39,3 +39,4 @@
 - **.zshrc**
   - alias
   - where
+  - change the prompt

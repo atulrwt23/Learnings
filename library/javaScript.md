@@ -41,3 +41,6 @@
 - **mocking**
 - **snippets**
 - **current assingments**
+- **time keepers**
+  - settimeout
+  - setinerval
