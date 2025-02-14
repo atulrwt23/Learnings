@@ -26,8 +26,10 @@
   - sort
   - uniq
   - which
+  - jot
+  - use of {}.something
 
-- **Standard in | standard out**
+- **Standard in | standard out** | **standard error**
 - **piping**
 - **variables**
 - **process**
@@ -35,6 +37,14 @@
   - Activity monitor | pstree
   - Process ID
   - Parent process | Child process
+
+- **wildcards**
+
+  - \*
+  - \*\*/\*
+  - !$
+  - !!
+  - !name
 
 - **.zshrc**
   - alias
